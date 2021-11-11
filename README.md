@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+#Ma numesc Stanca Ariana ,sunt studenta in anul 2 la master specializarea Sisteme Automate Incorporate si lucrez la firma Pirelli.
+
 - Bulleted
 - List
 
